@@ -7,7 +7,6 @@
 body{
     max-width: 1440px;
     margin: auto auto;
-    width: 100%;
 }
 
 .landing{
@@ -178,10 +177,100 @@ body{
     color: rgb(51, 51, 51);
 }
 
+.footer{
+    background-color: black;
+    padding: 3em 2em;
+    width: 100%;
+    padding-bottom: 1em;
+}
+
+.footer li{
+    list-style-type: none;
+    margin-bottom: .5em;
+}
+
+.footer a{
+    color: rgb(192, 191, 191);
+    text-decoration: none;
+}
+
+.footer a:hover{
+    color: var(--primary);
+}
+
+.footer p{
+    color: rgb(192, 191, 191);
+}
+
+.footer input{
+    margin-bottom: 1em;
+    border: 1px solid grey;
+    background-color: transparent;
+    padding: .5em;
+    outline: none;
+    border-radius: 3px;
+    caret-color: white;
+    color: white;
+}
+
+.footer button{
+    margin-bottom: 1em;
+    border: 1px solid var(--primary);
+    background-color: transparent;
+    padding: .5em 1em;
+    outline: none;
+    border-radius: 3px;
+    color: var(--primary);
+    font-size: 12px;
+}
+
+
+.footer input::placeholder{
+    color: rgb(192, 191, 191);
+    font-size: 12px;
+}
+
+.footer .cont{
+    background-color: var(--primary);
+    padding: 1em;
+    border-radius: 6px;
+}
+
+.footer img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+.footer .divider{
+    color: rgb(231, 231, 231);
+    font-size: 12px;
+    border-bottom: 1px solid rgb(206, 206, 206);
+    padding-bottom: 2em;
+}
+
+.footer .cont a{
+    color: rgb(231, 231, 231);
+}
+
+.footer .cont li{
+    font-size: 12px;
+}
+
+.footer .row{
+    border-bottom: 1px solid rgb(62, 61, 61);
+}
+
+
 @media (max-width: 600px){  
     .landing .section3{
         padding: 2em 1em;
-    }     
+    }   
+    
+    
+    .footer{
+        padding: 1em;
+    }
 
     .landing .main .section1 {
         width: 100%;
@@ -213,7 +302,7 @@ body{
     }
 
     .landing .section3{
-        width: 103%;
+        width: 100%;
     }
 }
     
