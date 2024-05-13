@@ -1,10 +1,10 @@
 
 
 <p align="center">
-    TIMBU SELLER DASHBOARD
+    PTMVLIMITED
 </p>
 
-Source code for  Timbu Seller Dashboard
+Source code for  PTMVLIMITED
 
 ## Setup Prerequisites
 
