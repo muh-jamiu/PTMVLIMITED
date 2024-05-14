@@ -95,8 +95,41 @@ Prime trast multiverse | Welcome
             </div>
 
             <div class="row mt-5 section2">
-                <div class="col-sm-7">
-                    <img src="/img/workers.png" alt="">
+                <div class="col-sm-7 mb-3">
+                    <div class="gallery">
+                        <div class="gallery-item">
+                            <img src="/img/img1.jpeg" alt="Image 1">
+                        </div>
+                        <div class="gallery-item">
+                            <img src="/img/img2.jpeg" alt="Image 1">
+                        </div>
+                        <div class="gallery-item">
+                            <img src="/img/img3.jpeg" alt="Image 1">
+                        </div>
+                        <div class="gallery-item">
+                            <img src="/img/img4.jpeg" alt="Image 1">
+                        </div>
+                    </div>
+                    <div class="gallery secImg sec">
+                        <div class="gallery-item">
+                            <img src="/img/test.jpeg" alt="Image 1">
+                        </div>
+                        <div class="gallery-item">
+                            <video autoplay muted  src="/img/vid1.mp4"></video>
+                            {{-- <img src="/img/test1.jpeg" alt="Image 1"> --}}
+                        </div>
+                    </div>
+                    <div class="gallery third">
+                        <div class="gallery-item">
+                            <img src="/img/img5.jpeg" alt="Image 1">
+                        </div>
+                        <div class="gallery-item">
+                            <img src="/img/img6.jpeg" alt="Image 1">
+                        </div>
+                        <div class="gallery-item">
+                            <img src="/img/img1.jpeg" alt="Image 1">
+                        </div>
+                    </div>
                 </div>
                 <div class="col-sm-5">
                     <h2 class="fw-bold mb-2">Engineering <span class="span">Excellence</span>, Constructing Tomorrow: <span class="span">Prime trast multiverse</span> Builders</h2>
@@ -119,7 +152,7 @@ Prime trast multiverse | Welcome
             </div>
         </div>
 
-        <div class="section3 text-white">
+        <div class="section3 mt-3 text-white">
           <div class="row">
             <div class="col-sm-5 mb-4">
                 <h2 class="fw-bold mb-3">Build Your Better Home With <span class="span">Professional</span> Trusted Services</h2>
