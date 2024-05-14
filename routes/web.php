@@ -16,3 +16,27 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view("index");
 });
+
+Route::get('/about-us', function () {
+    return view("index");
+});
+
+Route::get('/contact-us', function () {
+    return view("index");
+});
+
+Route::get('/blogs', function () {
+    return view("index");
+});
+
+Route::get('/feature-works', function () {
+    return view("index");
+});
+
+Route::get('/team', function () {
+    return view("index");
+});
+
+Route::get('/services', function () {
+    return view("index");
+});

@@ -261,11 +261,90 @@ body{
     border-bottom: 1px solid rgb(62, 61, 61);
 }
 
+.landing .hamburg{
+    background-color: var(--primary);
+    padding: .7em;
+    right: 0;
+    position: absolute;
+    font-size: 1.2em;
+}
+
+.landing .mobile {
+    margin: 1em;
+}
+
+.landing .mobile img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.home_nav .offcanvas{
+    width: 80% !important;
+}
+
+.home_nav .offcanvas a{
+    color: grey;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+.home_nav .offcanvas p {
+    border-top: 1px solid rgb(227, 227, 227);
+    padding: 1em 1em;
+    font-size: 1.2em;
+    margin-bottom: 0 !important;
+}
+
+.home_nav .offcanvas .cont{
+    background-color: var(--primary);
+    padding: 1em !important;
+}
+
+.home_nav .offcanvas .active{
+    border-right: 5px solid var(--primary);
+    border-radius: 10px;
+}
+
+.home_nav .offcanvas .cont p {
+    border-top: 1px solid transparent !important;
+    padding-top: 0em !important;
+    padding: 0em !important;
+}
+
+.home_nav .offcanvas .cont a{
+    color: white !important;
+    font-size: 12px !important;
+}
+
+.home_nav .offcanvas p a i{
+    margin-right: .4em;
+    color: var(--primary);
+}
+
+.home_nav .offcanvas .cont li{
+    margin-left: 2.4em !important;
+}
+
+.home_nav .offcanvas .cont .d-flex{
+    padding-bottom: 10em;
+}
+
+.home_nav .offcanvas .cont .d-flex i{
+    font-size: 1.5em !important;
+}
+
+.home_nav .offcanvas-body{
+    padding: 0 !important;
+}
 
 @media (max-width: 600px){  
     .landing .section3{
         padding: 2em 1em;
-    }   
+    } 
+    
+    .landing .mobile, .landing .hamburg {
+        display: inline-block !important;
+    }
     
     
     .footer{
