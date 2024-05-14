@@ -422,10 +422,51 @@ body{
     border-radius: 3px;
 }
 
+.service .main{
+    padding: 3em 3em;
+}
+
+.service .main .col-sm-4{
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.service .main .col-sm-4 p{
+    border-bottom: 1px solid rgb(216, 216, 216);
+    padding-bottom: 2em;
+}
+
+.service .main .col-sm-4 .img{
+    width: 100%;
+    height: 300px;
+    /* border: 2px solid var(--primary); */
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.service .main .col-sm-4 img{
+    width: 100%;
+    height: 100%;
+}
+
+.service .main .col-sm-4  i{
+    background-color: var(--primary);
+    color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    padding: .3em;
+    margin-bottom: 1em;
+}
+
 @media (max-width: 600px){  
     .landing .section3{
         padding: 2em 1em;
     } 
+
+    .wago{
+        width: 100% !important;
+    }
     
     .landing .mobile, .landing .hamburg {
         display: inline-block !important;
