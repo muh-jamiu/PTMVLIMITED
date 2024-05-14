@@ -14,59 +14,75 @@ Services | Prime trast multiverse
     
     <div class="row mt-4">
       <div class="col-sm-4">
+        <div class="cont">
         <i class="fa-solid fa-people-group"></i>
-        <h5 class="fw-bold">Building Construction</h5>
-        <div class="img"><img src="/img/building.jpg" alt=""></div>
+        <h5 class="fw-bold text-truncate">Building Construction</h5>
+        <div class="img"><img src="/img/test.jpeg" alt=""></div>
         <p>A construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+        </div>
       </div>
 
       <div class="col-sm-4">
+        <div class="cont">
         <i class="fa-solid fa-people-group"></i>
-        <h5 class="fw-bold">Repair & Expand Building</h5>
-        <div class="img"><img src="/img/building.jpg" alt=""></div>
+        <h5 class="fw-bold text-truncate">Repair & Expand Building</h5>
+        <div class="img"><img src="/img/test1.jpeg" alt=""></div>
         <p>A construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+        </div>
       </div>
 
       <div class="col-sm-4">
+        <div class="cont">
         <i class="fa-solid fa-people-group"></i>
-        <h5 class="fw-bold">Architectural Design</h5>
+        <h5 class="fw-bold text-truncate">Architectural Design</h5>
         <div class="img"><img src="/img/building.jpg" alt=""></div>
         <p>A construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+        </div>
       </div>
 
       <div class="col-sm-4">
+        <div class="cont">
         <i class="fa-solid fa-people-group"></i>
-        <h5 class="fw-bold">General Contracting</h5>
+        <h5 class="fw-bold text-truncate">General Contracting</h5>
         <div class="img"><img src="/img/building.jpg" alt=""></div>
         <p>A construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+        </div>
       </div>
 
       <div class="col-sm-4">
+        <div class="cont">
         <i class="fa-solid fa-people-group"></i>
-        <h5 class="fw-bold">Electrical System</h5>
+        <h5 class="fw-bold text-truncate">Electrical System</h5>
         <div class="img"><img src="/img/building.jpg" alt=""></div>
         <p>A construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+        </div>
       </div>
 
       <div class="col-sm-4">
+        <div class="cont">
         <i class="fa-solid fa-people-group"></i>
-        <h5 class="fw-bold">Product Research</h5>
+        <h5 class="fw-bold text-truncate">Product Research</h5>
         <div class="img"><img src="/img/building.jpg" alt=""></div>
         <p>A construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+        </div>
       </div>
 
       <div class="col-sm-4">
+        <div class="cont">
         <i class="fa-solid fa-people-group"></i>
-        <h5 class="fw-bold">Flooring & Roofing Building</h5>
+        <h5 class="fw-bold text-truncate">Flooring & Roofing Building</h5>
         <div class="img"><img src="/img/building.jpg" alt=""></div>
         <p>A construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+        </div>
       </div>
 
       <div class="col-sm-4">
+        <div class="cont">
         <i class="fa-solid fa-people-group"></i>
-        <h5 class="fw-bold">ProBuild Innovations</h5>
+        <h5 class="fw-bold text-truncate">ProBuild Innovations</h5>
         <div class="img"><img src="/img/building.jpg" alt=""></div>
         <p>A construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+        </div>
       </div>
 
     </div>
