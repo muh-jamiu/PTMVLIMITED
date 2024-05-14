@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section('title')
-Welcome | Limited
+Welcome | Prime trast multiverse
 @endsection
 
 @section("content")
