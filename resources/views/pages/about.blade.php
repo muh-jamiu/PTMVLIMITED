@@ -6,7 +6,7 @@ About Us | Prime trast multiverse
 
 @section("content")
 <div class="landing contact all">
-  <x-main-nav></x-main-nav>
+  <x-main-nav :about="true"></x-main-nav>
 
   <div class="main">
     <div class="row mt-5">

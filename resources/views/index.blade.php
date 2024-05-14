@@ -24,7 +24,7 @@ Prime trast multiverse | Welcome
                       <button type="button" class="btn-close text-reset text-success" data-bs-dismiss="offcanvas"></button>
                     </div>
                     <div class="offcanvas-body">
-                      <p class="active"><a href="/"><i class="fa-solid fa-house"></i> Home</a></p>
+                      <p class=""><a class="active" href="/"><i class="fa-solid fa-house "></i> Home</a></p>
                       <p><a href="/services"><i class="fa-brands fa-usps"></i> Services</a></p>
                       <p><a href="/contact-us"><i class="fa-solid fa-envelope"></i> Contact Us</a></p>
                       <p><a href="/about-us"><i class="fa-solid fa-envelope"></i> About Us</a></p>
@@ -69,7 +69,7 @@ Prime trast multiverse | Welcome
                         <h3 class="fw-bold mx-2 text-white">PTMVLIMITED</h3>
                     </a>
                     <div class="links d-flex justify-content-between">
-                        <li><a href="/home">Home</a></li>
+                        <li><a class="active" href="/home">Home</a></li>
                         <li><a href="/services">Services</a></li>
                         <li><a href="/blogs">Blogs</a></li>
                         <li><a href="/contact-us">Contact Us</a></li>

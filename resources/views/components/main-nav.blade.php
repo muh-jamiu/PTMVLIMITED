@@ -1,3 +1,10 @@
+@php
+    $service = $service ?? false;
+    $blog = $blog ?? false;
+    $contact = $contact ?? false;
+    $about = $about ?? false;
+@endphp
+
 <div class="home_nav">
     <div class="overlay">
         <p class="hamburg text-white d-none" class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebar"><i class="fa-solid fa-bars"></i></p>
@@ -16,11 +23,11 @@
               <button type="button" class="btn-close text-reset text-success" data-bs-dismiss="offcanvas"></button>
             </div>
             <div class="offcanvas-body">
-              <p class="active"><a href="/"><i class="fa-solid fa-house"></i> Home</a></p>
-              <p><a href="/services"><i class="fa-brands fa-usps"></i> Services</a></p>
-              <p><a href="/contact-us"><i class="fa-solid fa-envelope"></i> Contact Us</a></p>
-              <p><a href="/about-us"><i class="fa-solid fa-envelope"></i> About Us</a></p>
-              <p><a href="/blogs"><i class="fa-solid fa-blog"></i> Blog</a></p>
+              <p><a href="/"><i class="fa-solid fa-house"></i> Home</a></p>
+              <p><a class="{{$service ? "active" : ""}}" href="/services"><i class="fa-brands fa-usps"></i> Services</a></p>
+              <p><a class="{{$contact ? "active" : ""}}" href="/contact-us"><i class="fa-solid fa-envelope"></i> Contact Us</a></p>
+              <p><a class="{{$about ? "active" : ""}}" href="/about-us"><i class="fa-solid fa-envelope"></i> About Us</a></p>
+              <p><a  class="{{$blog ? "active" : ""}}" href="/blogs"><i class="fa-solid fa-blog"></i> Blog</a></p>
               <p><a href="/feature-works"><i class="fa-solid fa-diagram-project"></i> Projects</a></p>
               <p><a href="/team"><i class="fa-solid fa-people-group"></i> Team</a></p>
               
@@ -60,11 +67,11 @@
                 <h3 class="fw-bold mx-2 text-white">PTMVLIMITED</h3>
             </a>
             <div class="links d-flex justify-content-between">
-                <li><a href="/">Home</a></li>
-                <li><a href="/services">Services</a></li>
-                <li><a href="/blogs">Blogs</a></li>
-                <li><a href="/contact-us">Contact Us</a></li>
-                <li><a href="/about-us">About Us</a></li>
+                <li class=""><a href="/">Home</a></li>
+                <li><a class="{{$service ? "active" : ""}}" href="/services">Services</a></li>
+                <li><a class="{{$blog ? "active" : ""}}" href="/blogs">Blogs</a></li>
+                <li><a class="{{$contact ? "active" : ""}}" href="/contact-us">Contact Us</a></li>
+                <li><a class="{{$about ? "active" : ""}}" href="/about-us">About Us</a></li>
             </div>
         </div>
     </div>

@@ -7,7 +7,7 @@ Blogs | Prime trast multiverse
 @section("content")
 
 <div class="landing blogs all">
-  <x-main-nav></x-main-nav>
+  <x-main-nav :blog="true"></x-main-nav>
 
   <div class="main">
     <div class="row mt-5">

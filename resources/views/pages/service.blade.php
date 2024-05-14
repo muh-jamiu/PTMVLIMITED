@@ -6,7 +6,7 @@ Services | Prime trast multiverse
 
 @section("content")
 <div class="landing service all">
-  <x-main-nav></x-main-nav>
+  <x-main-nav :service="true"></x-main-nav>
 
   <div class="main">
     <h3 class="fw-bold text-center mt-3">Our Services</h3>
