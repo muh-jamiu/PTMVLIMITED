@@ -69,11 +69,11 @@ Prime trast multiverse | Welcome
                         <h3 class="fw-bold mx-2 text-white">PTMVLIMITED</h3>
                     </a>
                     <div class="links d-flex justify-content-between">
-                        <li><a href="">Home</a></li>
-                        <li><a href="">Services</a></li>
-                        <li><a href="">Blogs</a></li>
-                        <li><a href="">Contact Us</a></li>
-                        <li><a href="">About Us</a></li>
+                        <li><a href="/home">Home</a></li>
+                        <li><a href="/services">Services</a></li>
+                        <li><a href="/blogs">Blogs</a></li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                        <li><a href="/about-us">About Us</a></li>
                     </div>
                 </div>
 
