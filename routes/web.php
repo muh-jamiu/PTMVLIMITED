@@ -18,25 +18,25 @@ Route::get('/', function () {
 });
 
 Route::get('/about-us', function () {
-    return view("index");
+    return view("pages.about");
 });
 
 Route::get('/contact-us', function () {
-    return view("index");
+    return view("pages.contact");
 });
 
 Route::get('/blogs', function () {
-    return view("index");
+    return view("pages.blogs");
 });
 
 Route::get('/feature-works', function () {
-    return view("index");
+    return view("pages.work");
 });
 
 Route::get('/team', function () {
-    return view("index");
+    return view("pages.team");
 });
 
 Route::get('/services', function () {
-    return view("index");
+    return view("pages.service");
 });

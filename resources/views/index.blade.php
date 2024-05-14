@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section('title')
-Welcome | Prime trast multiverse
+Prime trast multiverse | Welcome 
 @endsection
 
 @section("content")
@@ -47,7 +47,7 @@ Welcome | Prime trast multiverse
 
                      
                     </div>
-                  </div>
+                </div>
                 
                 <div class="first d-flex justify-content-between">
                     <div class="d-flex">
