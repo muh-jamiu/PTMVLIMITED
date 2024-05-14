@@ -24,13 +24,13 @@ Prime trast multiverse | Welcome
                       <button type="button" class="btn-close text-reset text-success" data-bs-dismiss="offcanvas"></button>
                     </div>
                     <div class="offcanvas-body">
-                      <p class="active"><a href=""><i class="fa-solid fa-house"></i> Home</a></p>
-                      <p><a href=""><i class="fa-brands fa-usps"></i> Services</a></p>
-                      <p><a href=""><i class="fa-solid fa-envelope"></i> Contact Us</a></p>
-                      <p><a href=""><i class="fa-solid fa-envelope"></i> About Us</a></p>
-                      <p><a href=""><i class="fa-solid fa-blog"></i> Blog</a></p>
-                      <p><a href=""><i class="fa-solid fa-diagram-project"></i> Projects</a></p>
-                      <p><a href=""><i class="fa-solid fa-people-group"></i> Team</a></p>
+                      <p class="active"><a href="/"><i class="fa-solid fa-house"></i> Home</a></p>
+                      <p><a href="/services"><i class="fa-brands fa-usps"></i> Services</a></p>
+                      <p><a href="/contact-us"><i class="fa-solid fa-envelope"></i> Contact Us</a></p>
+                      <p><a href="/about-us"><i class="fa-solid fa-envelope"></i> About Us</a></p>
+                      <p><a href="/blogs"><i class="fa-solid fa-blog"></i> Blog</a></p>
+                      <p><a href="/feature-works"><i class="fa-solid fa-diagram-project"></i> Projects</a></p>
+                      <p><a href="/team"><i class="fa-solid fa-people-group"></i> Team</a></p>
                       
                       <div class="cont mt-5 pt-3">                            
                         <p><a href="tel:+2348091810342"><i class="fa-solid text-white mx-2 fa-phone"></i> +2348091810342</a></p>

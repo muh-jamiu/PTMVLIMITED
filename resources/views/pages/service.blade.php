@@ -9,4 +9,5 @@ Services | Prime trast multiverse
   <x-main-nav></x-main-nav>
 
 </div>
+<x-footer></x-footer>
 @endsection
