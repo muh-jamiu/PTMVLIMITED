@@ -115,8 +115,7 @@ Prime trast multiverse | Welcome
                             <img src="/img/test.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
-                            <video autoplay muted  src="/img/vid1.mp4"></video>
-                            {{-- <img src="/img/test1.jpeg" alt="Image 1"> --}}
+                            <video id="video" autoplay muted  src="/img/vid1.mp4"></video>
                         </div>
                     </div>
                     <div class="gallery third">
@@ -201,6 +200,15 @@ Prime trast multiverse | Welcome
 @push("javascript")
 
 <script>
+
+document.addEventListener("DOMContentLoaded", function() {
+    var video = document.getElementById("video");
+
+    video.addEventListener("ended", function() {
+        video.currentTime = 0;
+        video.play();
+    });
+});
 
 </script>
     

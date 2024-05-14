@@ -599,6 +599,11 @@ body{
         padding: 1em;
     }
 
+    
+    .secImg{
+        height: 800px !important;
+    }
+
     .landing .main .section1 {
         width: 100%;
     }
