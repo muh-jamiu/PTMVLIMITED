@@ -70,8 +70,8 @@ Prime trast multiverse | Welcome
                     </a>
                     <div class="links d-flex justify-content-between">
                         <li><a class="active" href="/home">Home</a></li>
-                        <li><a href="/services">Services</a></li>
                         <li><a href="/blogs">Blogs</a></li>
+                        <li><a href="/feature-works">Projects</a></li>
                         <li><a href="/contact-us">Contact Us</a></li>
                         <li><a href="/about-us">About Us</a></li>
                     </div>
