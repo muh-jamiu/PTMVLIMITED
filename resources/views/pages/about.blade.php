@@ -38,7 +38,7 @@ About Us | Prime trast multiverse
            <div class="">
             <div class="gallery">
               <div class="gallery-item">
-                  <img src="/img/img1.jpeg" alt="Image 1">
+                  <img src="/img/img22.jpeg" alt="Image 1">
               </div>
               <div class="gallery-item">
                   <img src="/img/img7.jpeg" alt="Image 1">

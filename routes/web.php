@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\SuppliersController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -20,6 +21,9 @@ Route::get('/', function () {
 Route::get('/about-us', function () {
     return view("pages.about");
 });
+
+Route::get('/send-mail', [SuppliersController::class, 'sendMail']);
+
 
 Route::get('/contact-us', function () {
     return view("pages.contact");

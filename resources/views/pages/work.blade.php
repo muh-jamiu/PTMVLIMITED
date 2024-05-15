@@ -16,7 +16,7 @@ Successful Projects | Prime trast multiverse
       <div class="col-sm-3">
         <div class="cont">
         <h5 class="fw-bold text-truncate">Building Construction</h5>
-        <div class="img"><img src="/img/img1.jpeg" alt=""></div>
+        <div class="img"><img src="/img/img22.jpeg" alt=""></div>
         <a href="/contact-us" class="btn">Message Us <i class="fa-solid fa-arrow-right"></i></a>
         </div>
       </div>

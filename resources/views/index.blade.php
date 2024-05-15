@@ -74,6 +74,7 @@ Prime trast multiverse | Welcome
                         <li><a href="/feature-works">Projects</a></li>
                         <li><a href="/contact-us">Contact Us</a></li>
                         <li><a href="/about-us">About Us</a></li>
+                        <li><a href="/team">Team</a></li>
                     </div>
                 </div>
 
@@ -98,7 +99,7 @@ Prime trast multiverse | Welcome
                 <div class="col-sm-7 mb-3">
                     <div class="gallery">
                         <div class="gallery-item">
-                            <img src="/img/img1.jpeg" alt="Image 1">
+                            <img src="/img/img22.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
                             <img src="/img/img7.jpeg" alt="Image 1">

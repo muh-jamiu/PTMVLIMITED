@@ -4,6 +4,7 @@
     $contact = $contact ?? false;
     $about = $about ?? false;
     $works = $works ?? false;
+    $team = $team ?? false;
 @endphp
 
 <div class="home_nav">
@@ -30,7 +31,7 @@
               <p><a class="{{$about ? "active" : ""}}" href="/about-us"><i class="fa-solid fa-envelope"></i> About Us</a></p>
               <p><a  class="{{$blog ? "active" : ""}}" href="/blogs"><i class="fa-solid fa-blog"></i> Blog</a></p>
               <p><a class="{{$works ? "active" : ""}}" href="/feature-works"><i class="fa-solid fa-diagram-project"></i> Projects</a></p>
-              <p><a href="/team"><i class="fa-solid fa-people-group"></i> Team</a></p>
+              <p><a class="{{$team ? "active" : ""}}" href="/team"><i class="fa-solid fa-people-group"></i> Team</a></p>
               
               <div class="cont mt-5 pt-3">                            
                 <p><a href="tel:+2348091810342"><i class="fa-solid text-white mx-2 fa-phone"></i> +2348091810342</a></p>
@@ -74,6 +75,7 @@
                 <li><a class="{{$blog ? "active" : ""}}" href="/blogs">Blogs</a></li>
                 <li><a class="{{$contact ? "active" : ""}}" href="/contact-us">Contact Us</a></li>
                 <li><a class="{{$about ? "active" : ""}}" href="/about-us">About Us</a></li>
+                <li><a class="{{$team ? "active" : ""}}" href="/team">Team</a></li>
             </div>
         </div>
     </div>
