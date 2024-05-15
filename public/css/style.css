@@ -162,11 +162,17 @@ body{
     overflow: hidden;
 }
 
+
 .gallery-item img, .gallery-item video {
     display: block;
     width: 100%;
     height: auto;
     transition: transform 0.3s ease;
+}
+
+
+.gallery-item img{
+    height: 100% !important;
 }
 
 .gallery-item:hover img {

@@ -80,7 +80,7 @@ Prime trast multiverse | Welcome
                 <div class="third text-center">
                     <h1 class="fw-bold">Build Your Dream <span class="span">Buildings</span> For Future</h1>
                     <p><span class="span fw-bold text-uppercase">Prime trast multiverse</span> experience ensures that your projects will be done right and with the upmost <span class="span">professionalism</span>.</p>
-                    <a href="" class="btn">Our Services</a>
+                    <a href="/services" class="btn">Our Services</a>
                 </div>
             </div>
             <img src="/img/building.jpg" alt="">
@@ -101,18 +101,18 @@ Prime trast multiverse | Welcome
                             <img src="/img/img1.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
-                            <img src="/img/img2.jpeg" alt="Image 1">
+                            <img src="/img/img7.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
-                            <img src="/img/img3.jpeg" alt="Image 1">
+                            <img src="/img/img8.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
-                            <img src="/img/img4.jpeg" alt="Image 1">
+                            <img src="/img/img9.jpeg" alt="Image 1">
                         </div>
                     </div>
                     <div class="gallery secImg sec">
                         <div class="gallery-item">
-                            <img src="/img/test.jpeg" alt="Image 1">
+                            <img src="/img/img10.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
                             <video id="video" autoplay muted  src="/img/vid1.mp4"></video>
@@ -120,13 +120,13 @@ Prime trast multiverse | Welcome
                     </div>
                     <div class="gallery third">
                         <div class="gallery-item">
-                            <img src="/img/img5.jpeg" alt="Image 1">
+                            <img src="/img/img11.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
-                            <img src="/img/img6.jpeg" alt="Image 1">
+                            <img src="/img/img12.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
-                            <img src="/img/img1.jpeg" alt="Image 1">
+                            <img src="/img/img13.jpeg" alt="Image 1">
                         </div>
                     </div>
                 </div>
