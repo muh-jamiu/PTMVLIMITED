@@ -658,6 +658,42 @@ body{
     margin-bottom: 1em;
 }
 
+.about .main{
+    padding: 2em;
+}
+
+.about img{
+    width: 100%;
+    height: 400px;
+}
+
+.about li{
+    color: rgb(88, 88, 88);
+    font-size: 14px;
+}
+
+.about .links li{
+    color: rgb(88, 88, 88);
+    font-size: 14px;
+    list-style-type: none;
+    margin-bottom: .5em !important;
+}
+
+.about .social li{
+    list-style-type: none;
+    margin-bottom: .5em !important;
+    margin-right: 1em;
+}
+
+.about i{
+    color: var(--primary);
+}
+
+.about a{
+    text-decoration: none;
+    color: rgb(88, 88, 88);
+}
+
 @media (max-width: 600px){  
     .landing .section3{
         padding: 2em 1em;
