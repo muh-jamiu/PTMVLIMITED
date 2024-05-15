@@ -162,7 +162,25 @@ Prime trast multiverse | Welcome
                 <h6 class="fw-bold"><i class="fa-solid fa-check"></i> High Quality Work & Satisfaction Guarantee</h6>
             </div>
             <div class="col-sm-7">
-                <img src="/img/slant.png" alt="">
+                <div class="gallery">
+                    <div class="gallery-item">
+                        <img src="/img/img18.jpeg" alt="Image 1">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="/img/img17.jpeg" alt="Image 1">
+                    </div>
+                    <div class="gallery-item rm">
+                        <img src="/img/img16.jpeg" alt="Image 1">
+                    </div>
+                </div>
+                <div class="gallery secImg sec">
+                <div class="gallery-item">
+                    <img src="/img/img15.jpeg" alt="Image 1">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/img14.jpeg" alt="Image 1">
+                </div>
+                </div>
             </div>
           </div>
         </div>

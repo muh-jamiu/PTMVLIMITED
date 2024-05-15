@@ -157,9 +157,15 @@ body{
     margin-top: 5px;
 }
 
+
+.section3 .gallery.sec {
+    height: 200px;
+}
+
 .gallery-item {
     position: relative;
     overflow: hidden;
+    background-color: rgba(135, 135, 135, 0.397);
 }
 
 
@@ -633,6 +639,10 @@ body{
 
     .landing .main{
         padding: 1em;
+    }
+
+    .section3 .rm{
+        display: none;
     }
 
     .landing .section4{
