@@ -830,6 +830,11 @@ body{
         padding: 1em;
     }
 
+    .team .c_4 img, .team .c_2 img{
+        height: 100px !important;
+    }
+    
+
     
     .secImg{
         height: 800px !important;

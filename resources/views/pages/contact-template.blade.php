@@ -9,8 +9,33 @@
     <title>Document</title>
 </head>
 <body>
-    <h3 style="text-align: center;font-weight:900">{{$name}}</h3>
-    <h1 style="font-weight:900;margin-top:2em">Message from: {{$sender}}</h1>
-    <p style="font-weight:900;margin-top:2em"><strong style="color: blue">Feedback:</strong> {{$msg}}</p>
+    <div class="img" style="width: 100%;height: 200px">
+        <img src="https://ptmvlimited.com/img/img15.jpeg" alt="" style="width: 100%; height: 100%">
+    </div>
+
+    <br>
+
+    <hr>
+
+    <a href="https://ptmvlimited.com/" class="logo d-flex" style="text-align: center; margin-bottom:.5em">
+        <h3 class="fw-bold mx-2 text-white">VISIT PRIME TRAST MULTIVERSE </h3>
+    </a>
+    <h4 style="text-align: center; margin-top:0">Engineering Excellence, Constructing Tomorrow: Prime trast multiverse Builders</h4>
+
+    <hr>
+    <h3 style="margin-top:2em">Below is a message sent to your company by {{$name}}.</h3>
+    <h4 style="font-weight:900; text-transform:capitalize">Sender Email: {{$sender}}</h4>
+    <p style="font-weight:900;margin-top:2em; text-transform:capitalize; line-height:30px"><strong style="text-decoration: underline">Client Message:</strong> {{$msg}}</p>
+    <hr>
+
+    <br>
+    <li style="margin-bottom: 1em; list-style-type:none"><a href="tel:+2348091810342"><i class="fa-solid mx-2 fa-phone"></i> +2348091810342</a></li>
+    <li style="margin-bottom: 1em; list-style-type:none"><a href=""><i class="fa-solid mx-2 fa-envelope"></i> company@ptmvlimited.com</a></li>
+    <li style="margin-bottom: 1em; list-style-type:none"><a href=""><i class="fa-solid fa-location-dot mx-2"></i> 19 Chelsea Chibuzor street Katampe Abuja</a></li>
+    <li style="margin-bottom: 1em; list-style-type:none"><a href="https://ptmvlimited.com"><i class="fa-solid fa-location-dot mx-2"></i> PTMVLIMITED</a></li>
+<br>
+    <hr>
+
+
 </body>
 </html>

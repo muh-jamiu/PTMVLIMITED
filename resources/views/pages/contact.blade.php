@@ -32,15 +32,25 @@ Contact Us | Prime trast multiverse
         </div>
         
         <div class="col-sm-6">
+            @if (session("error_msg"))                
+                <p class="text-center fw-semibold text-danger">{{session("error_msg")}}.</p>
+            @endif
+            @if (session("success_msg"))                
+                <p class="text-center fw-semibold text-success">{{session("success_msg")}}.</p>
+            @endif
+
             <div class="form">
-                <h3 class="fw-bold mb-3"><span class="span">Message</span> Us</h3>
-                <div class="d-flex">
-                    <input type="text" style="margin-right: .5em" placeholder="Enter your name">
-                    <input type="text" style="margin-left: .5em" placeholder="Your email">
-                </div>
-                <input type="text" placeholder="Subject">
-                <textarea name="" id="" cols="30" rows="10" placeholder="Message"></textarea>
-                <button class="btn">Send Message</button>
+                <form class="forms" action="send-mail" method="GET">
+                    @csrf
+                    <h3 class="fw-bold mb-3"><span class="span">Message</span> Us</h3>
+                    <div class="d-flex">
+                        <input required name="name" type="text" style="margin-right: .5em" placeholder="Enter your name">
+                        <input required name="email" type="email" style="margin-left: .5em" placeholder="Your email">
+                    </div>
+                    <input required name="subject" type="text" placeholder="Subject">
+                    <textarea required name="message" id="" cols="30" rows="10" placeholder="Message"></textarea>
+                    <button class="btn submit_btn">Send Message</button>
+                </form>
             </div>
         </div>
     </div>
@@ -49,4 +59,18 @@ Contact Us | Prime trast multiverse
 </div>
 
 <x-footer></x-footer>
+
+@push("javascript")
+
+<script>
+    var submit_btn = document.querySelector(".submit_btn")
+    var forms = document.querySelector(".forms")
+
+    forms.addEventListener("submit", () => {
+        submit_btn.innerHTML = `Processing <div class="spinner-border spinner-border-sm text-white"></div>`
+    })
+
+</script>
+    
+@endpush
 @endsection

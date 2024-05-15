@@ -17,8 +17,17 @@ class SuppliersController extends Controller
     {
     }
 
-    public function sendMail(){
-        Mail::to('recipient@example.com')->send(new MyMail("testing msg", "Contact Email", "test@gmail.com", "test"));
-        return true;
+    public function sendMail(Request $request){
+        $name = strtoupper($request->name);
+        $message = $request->message;
+        $email = $request->email;
+        $subject = strtoupper($request->subject);
+
+        $mail = Mail::to('ganiujamiu03@gmail.com')->send(new MyMail($message, $subject, $email, $name));
+        if(!$mail){
+            return back()->with("error_msg", "Soemthing went wrong, Please try again later!!");
+        }
+
+        return back()->with("success_msg", "Message was sent, We will get back to you shortly");
     }
 }
