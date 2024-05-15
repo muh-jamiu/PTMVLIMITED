@@ -23,7 +23,7 @@ class SuppliersController extends Controller
         $email = $request->email;
         $subject = strtoupper($request->subject);
 
-        $mail = Mail::to('ganiujamiu03@gmail.com')->send(new MyMail($message, $subject, $email, $name));
+        $mail = Mail::to('ptmvlimited@gmail.com')->send(new MyMail($message, $subject, $email, $name));
         if(!$mail){
             return back()->with("error_msg", "Soemthing went wrong, Please try again later!!");
         }
