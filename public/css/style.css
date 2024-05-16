@@ -685,7 +685,7 @@ body{
     margin-right: 1em;
 }
 
-.about i{
+.about .row i{
     color: var(--primary);
 }
 
@@ -702,7 +702,7 @@ body{
     width: 150px;
     height: 150px;
     overflow: hidden;
-    border: 5px solid rgba(216, 215, 215, 0.553);
+    border: 5px solid rgba(234, 234, 234, 0.766);
     border-radius: 50%;
     background-color: grey;
 }
@@ -789,10 +789,28 @@ body{
     padding-top: 4em;
 }
 
+.ceo_about .img{
+    width: 400px;
+    height: 700px;
+    /* object-fit: contain; */
+}
+
+.ceo_about .img img{
+    width: 100%;
+    height: 100%;
+    /* object-fit: contain; */
+}
+
 @media (max-width: 600px){  
     .landing .section3{
         padding: 2em 1em;
     } 
+
+    .ceo_about .img{
+        width: 100%;
+        height: 700px;
+        /* object-fit: contain; */
+    }
 
     .team .context{
         width: 100px;
@@ -823,6 +841,22 @@ body{
 
     .service .main .col-sm-4 .img{
         height: 400px !important;
+    }
+
+    .team .c_1{
+        transform: translateX(30px);
+    }
+
+    .team .c_2{
+        transform: translateX(10px);
+    }
+    
+    .team .c_4{
+        transform: translateX(-20px);
+    }
+
+    .team .c_5{
+        transform: translateX(-40px);
     }
     
     

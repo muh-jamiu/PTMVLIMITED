@@ -50,10 +50,18 @@ Team Members | Prime trast multiverse
             <div class="content ceo">
                 <div class="img"><img src="/img/team1.jpeg" alt=""></div>
                 <div class="text">
-                    <h5 class="text-white fw-bold">Name Here</h5>
-                    <h6 class="text-white fw-bold">Managing Director</h6>
-                    <p class="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam soluta nemo doloremque et minima quo numquam placeat omnis magni ratione. At dolore molestias necessitatibus? Recusandae cumque ea rerum ipsam ducimus!</p>
-                </div>
+                    <h5 class="text-white fw-bold">Oyinlade Adu</h5>
+                    <h6 class="text-white fw-bold">CEO, Managing Director</h6>
+                    <p class="fw-bold text-white mt-3">Educations</p>
+                    <p>Federal University of Technology</p>
+                    <p class="fw-bold text-white mt-3">Qualifications</p>
+                    <p>B.Tech in Physics Computer Science</p>
+                    <p>Construction and facility management industry</p>
+                    <p>Pioneer deployer of the Contributory Pension scheme with two different PFAs</p>
+                    <p class="fw-bold text-white mt-3">CEO</p>
+                    <p>CEO of Prime trast Management and investment LTD</p>
+                    <p>Board member in Skylar Inc</p>
+                   </div>
             </div>
         </div>        
 

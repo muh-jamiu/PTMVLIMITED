@@ -14,6 +14,27 @@ About Us | Prime trast multiverse
       <p class="">Build Your Better Home With Professional Trusted Services.</p>
     </div>
     <br>
+
+    <div class="row mb-5 ceo_about">
+        <div class="col-sm-5">
+          <div class="img"><img src="/img/team1.jpeg" alt=""></div>
+        </div>
+
+        <div class="col-sm-7">          
+          <h5 class="fw-bold mt-4">Oyinlade Adu CEO of Prime trast multiverse</h5>
+          <p class="fw-bold">Engineering Excellence, Constructing Tomorrow: Prime trast multiverse Builders</p>
+          <p>Oyinlade Adu was born 3rd of August 1979 to the Adu’s family of Obbo Aiyegunle in Ekiti Local government Area of Kwara State. </p>
+          <p>He Graduated  from Federal University of Technology and  earned a B.Tech in Physics Computer Science. </p>
+          <p>He worked briefly as pioneer deployer of the Contributory Pension scheme with two different PFAs.</p>
+          <p>His passion for contruction and creativity drove him into the Construction and facility management industry. </p>
+          <p>Oyinlade is also the CEO of Prime trast Management and investment LTD and a board member in Skylar Inc. </p>
+          <p>His philanthropic efforts  through The Future is Now youth Initiative, birth out of concern for youth participation in Leadership. </p>
+          <p>He is married to a Beautiful Entrepreneur with two boys.</p>
+          <br>
+          <hr>
+        </div>
+    </div>
+
     <div class="row">
         <div class="col-sm-6 mb-5">
           <span class="span">How it started</span>

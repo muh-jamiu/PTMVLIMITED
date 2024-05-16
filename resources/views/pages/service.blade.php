@@ -17,7 +17,7 @@ Services | Prime trast multiverse
         <div class="cont">
         <i class="fa-solid fa-people-group"></i>
         <h5 class="fw-bold text-truncate">Building Construction</h5>
-        <div class="img"><img src="/img/img1.jpeg" alt=""></div>
+        <div class="img"><img src="/img/img22.jpeg" alt=""></div>
         <p>Prime trast multiverse encompasses the entire process of creating structures, from initial planning and design to the actual construction and completion.</p>
         </div>
       </div>

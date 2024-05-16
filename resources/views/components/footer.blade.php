@@ -16,24 +16,24 @@
     
         <div class="col-sm-2 mb-4 links">
             <h6 class="fw-bold mb-3">Company</h6>            
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Home</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Services</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Blogs</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Contact Us</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> About Us</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Our Project</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Our Team</a></li>
+            <li><a href="/"><i class="fa-solid fa-arrows-to-dot"></i> Home</a></li>
+            <li><a href="/services"><i class="fa-solid fa-arrows-to-dot"></i> Services</a></li>
+            <li><a href="/blogs"><i class="fa-solid fa-arrows-to-dot"></i> Blogs</a></li>
+            <li><a href="/contact-us"><i class="fa-solid fa-arrows-to-dot"></i> Contact Us</a></li>
+            <li><a href="/about-us"><i class="fa-solid fa-arrows-to-dot"></i> About Us</a></li>
+            <li><a href="/feature-works"><i class="fa-solid fa-arrows-to-dot"></i> Our Project</a></li>
+            <li><a href="/team"><i class="fa-solid fa-arrows-to-dot"></i> Our Team</a></li>
         </div>
 
         <div class="col-sm-3 mb-4 links">
             <h6 class="fw-bold mb-3">Our Services</h6>            
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Architectural Design</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Electrical System</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Build Craft Solutions</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Solid Foundation</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> ProBuild Innovations</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> General Contracting</a></li>
-            <li><a href=""><i class="fa-solid fa-arrows-to-dot"></i> Construction Consultant</a></li>
+            <li><a href="/services"><i class="fa-solid fa-arrows-to-dot"></i> Architectural Design</a></li>
+            <li><a href="/services"><i class="fa-solid fa-arrows-to-dot"></i> Electrical System</a></li>
+            <li><a href="/services"><i class="fa-solid fa-arrows-to-dot"></i> Build Craft Solutions</a></li>
+            <li><a href="/services"><i class="fa-solid fa-arrows-to-dot"></i> Solid Foundation</a></li>
+            <li><a href="/services"><i class="fa-solid fa-arrows-to-dot"></i> ProBuild Innovations</a></li>
+            <li><a href="/services"><i class="fa-solid fa-arrows-to-dot"></i> General Contracting</a></li>
+            <li><a href="/services"><i class="fa-solid fa-arrows-to-dot"></i> Construction Consultant</a></li>
         </div>
     
         <div class="col-sm-3 mb-3 email">
