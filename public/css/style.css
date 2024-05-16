@@ -801,6 +801,10 @@ body{
     /* object-fit: contain; */
 }
 
+.blogs img{
+    height: 300px;
+}
+
 @media (max-width: 600px){  
     .landing .section3{
         padding: 2em 1em;
@@ -865,6 +869,10 @@ body{
     }
 
     .team .c_4 img, .team .c_2 img{
+        /* height: 100px !important; */
+    }
+
+    .team .c_5 img, .team .c_1 img{
         height: 100px !important;
     }
     
