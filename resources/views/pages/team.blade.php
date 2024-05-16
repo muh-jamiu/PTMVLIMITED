@@ -16,27 +16,22 @@ Team Members | Prime trast multiverse
         <div class="d-flex">
         <div class="context c_1">
             <div class="img ">
-                <img src="/img/team1.jpeg" alt="">
+                <img src="/img/team4.jpeg" alt="">
             </div>
         </div>
         <div class="context c_2">
             <div class="img">
-                <img src="/img/team3.jpeg" alt="">
-            </div>
-        </div>
-        {{-- <div class="context c_3">
-            <div class="img ceo">
                 <img src="/img/team1.jpeg" alt="">
             </div>
-        </div> --}}
+        </div>
         <div class="context c_4">
             <div class="img">
-                <img src="/img/team4.jpeg" alt="">
+                <img src="/img/team2.jpeg" alt="">
             </div>
         </div>
         <div class="context c_5">
             <div class="img">
-                <img src="/img/team2.jpeg" alt="">
+                <img src="/img/team3.jpeg" alt="">
             </div>
         </div>
         </div>
@@ -47,11 +42,28 @@ Team Members | Prime trast multiverse
         <h5 class="fw-bold mb-5">Team Members</h5>
 
         <div class="col-sm-6">
+            <div class="content">
+                <div class="img"><img src="/img/team4.jpeg" alt=""></div>
+                <div class="text">
+                    <h5 class="text-white fw-bold ">Ahmed Buhari</h5>
+                    <h6 class="text-white fw-bold mb-3">Chairman</h6>
+                    <p class="fw-bold text-white">Qualifications</p>
+                    <p>B.Sc. in Geology</p>
+                    <p>Master's Degree in International Trade and Marketing in London</p>
+                    <p>Training in Geographic Information Systems</p>
+                    <p>Senior Business Development Manager </p>
+                    <p class="fw-bold mt-3">Awards</p>
+                    <p>MTN Nigeria</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6">
             <div class="content ceo">
                 <div class="img"><img src="/img/team1.jpeg" alt=""></div>
                 <div class="text">
                     <h5 class="text-white fw-bold">Oyinlade Adu</h5>
-                    <h6 class="text-white fw-bold">CEO, Managing Director</h6>
+                    <h6 class="text-white fw-bold">Managing Director</h6>
                     <p class="fw-bold text-white mt-3">Educations</p>
                     <p>Federal University of Technology</p>
                     <p class="fw-bold text-white mt-3">Qualifications</p>
@@ -63,7 +75,21 @@ Team Members | Prime trast multiverse
                     <p>Board member in Skylar Inc</p>
                    </div>
             </div>
-        </div>        
+        </div>   
+        
+        
+        <div class="col-sm-6">
+            <div class="content">
+                <div class="img"><img src="/img/team2.jpeg" alt=""></div>
+                <div class="text">
+                    <h5 class="text-white fw-bold">BALOGUN BUSAYO NIFEMI</h5>
+                    <h6 class="text-white fw-bold mb-3">Deputy director</h6>
+                    <p class="fw-bold text-white">Educations</p>
+                    <p class="text-capitalize">YABA COLLEGE OF TECHNOLOGY (2010- 2016) NATIONAL DIPLOMA (ND) BUSINESS ADMINISTRATION.</p>
+                    <p class="text-capitalize">HIGHER NATIONAL DIPLOMA (HND)MARKETING. UNIVERSITY OF LAGOS BSC (BUSINESS ADMINISTRATION) (2013 - 2017)</p>
+                 </div>
+            </div>
+        </div>
 
         <div class="col-sm-6">
             <div class="content">
@@ -87,37 +113,7 @@ Team Members | Prime trast multiverse
                 </div>
             </div>
         </div>
-
-        
-        <div class="col-sm-6">
-            <div class="content">
-                <div class="img"><img src="/img/team2.jpeg" alt=""></div>
-                <div class="text">
-                    <h5 class="text-white fw-bold">BALOGUN BUSAYO NIFEMI</h5>
-                    <h6 class="text-white fw-bold mb-3">Deputy director</h6>
-                    <p class="fw-bold text-white">Educations</p>
-                    <p class="text-capitalize">YABA COLLEGE OF TECHNOLOGY (2010- 2016) NATIONAL DIPLOMA (ND) BUSINESS ADMINISTRATION.</p>
-                    <p class="text-capitalize">HIGHER NATIONAL DIPLOMA (HND)MARKETING. UNIVERSITY OF LAGOS BSC (BUSINESS ADMINISTRATION) (2013 - 2017)</p>
-                 </div>
-            </div>
-        </div>
-
-        <div class="col-sm-6">
-            <div class="content">
-                <div class="img"><img src="/img/team4.jpeg" alt=""></div>
-                <div class="text">
-                    <h5 class="text-white fw-bold ">Ahmed Buhari</h5>
-                    <h6 class="text-white fw-bold mb-3">Role</h6>
-                    <p class="fw-bold text-white">Qualifications</p>
-                    <p>B.Sc. in Geology</p>
-                    <p>Master's Degree in International Trade and Marketing in London</p>
-                    <p>Training in Geographic Information Systems</p>
-                    <p>Senior Business Development Manager </p>
-                    <p class="fw-bold mt-3">Awards</p>
-                    <p>MTN Nigeria</p>
-                </div>
-            </div>
-        </div>
+       
     </div>
   </div>
 

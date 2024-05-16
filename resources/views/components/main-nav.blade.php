@@ -28,7 +28,7 @@
               <p><a href="/"><i class="fa-solid fa-house"></i> Home</a></p>
               <p><a class="{{$service ? "active" : ""}}" href="/services"><i class="fa-brands fa-usps"></i> Services</a></p>
               <p><a class="{{$contact ? "active" : ""}}" href="/contact-us"><i class="fa-solid fa-envelope"></i> Contact Us</a></p>
-              <p><a class="{{$about ? "active" : ""}}" href="/about-us"><i class="fa-solid fa-envelope"></i> About Us</a></p>
+              <p><a class="{{$about ? "active" : ""}}" href="/about-us"><i class="fa-solid fa-address-card"></i> About Us</a></p>
               <p><a  class="{{$blog ? "active" : ""}}" href="/blogs"><i class="fa-solid fa-blog"></i> Blog</a></p>
               <p><a class="{{$works ? "active" : ""}}" href="/feature-works"><i class="fa-solid fa-diagram-project"></i> Projects</a></p>
               <p><a class="{{$team ? "active" : ""}}" href="/team"><i class="fa-solid fa-people-group"></i> Team</a></p>
