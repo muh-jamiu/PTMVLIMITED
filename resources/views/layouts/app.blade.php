@@ -17,6 +17,7 @@
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="https://kit.fontawesome.com/4d349a1f95.js" crossorigin="anonymous"></script>
     <script src="/js/script.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
     
     @vite('resources/js/app.js')
 </head>
