@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section('title')
-Team Members | Prime trast multiverse 
+Team Members | Prime trast multiventures  
 @endsection
 
 @section("content")

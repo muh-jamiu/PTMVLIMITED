@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section('title')
-Successful Projects | Prime trast multiverse 
+Successful Projects | Prime trast multiventures  
 @endsection
 
 @section("content")
@@ -10,7 +10,7 @@ Successful Projects | Prime trast multiverse
 
   <div class="main">
     <h3 class="fw-bold text-center mt-3">Our <span class="span">Successful</span> Projects</h3>
-    <p class="text-center mb-5 wago" style="width: 60%; margin: auto auto"><span class="span fw-bold">Prime trast multiverse </span> company entity specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+    <p class="text-center mb-5 wago" style="width: 60%; margin: auto auto"><span class="span fw-bold">Prime trast multiventures  </span> company entity specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
     
     <div class="row mt-4">
       <div class="col-sm-3">

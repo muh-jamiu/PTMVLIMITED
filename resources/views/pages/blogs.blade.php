@@ -85,7 +85,7 @@
 @endphp
 
 @section('title')
-Blogs | Prime trast multiverse 
+Blogs | Prime trast multiventures  
 @endsection
 
 @section("content")

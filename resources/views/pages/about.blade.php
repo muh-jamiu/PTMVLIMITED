@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section('title')
-About Us | Prime trast multiverse 
+About Us | Prime trast multiventures  
 @endsection
 
 @section("content")
@@ -10,7 +10,7 @@ About Us | Prime trast multiverse
 
   <div class="main mt-3">
     <div class="text-center">
-      <h4 class="fw-bold">About <span class="span">Prime trast multiverse </span></h4>
+      <h4 class="fw-bold">About <span class="span">Prime trast multiventures  </span></h4>
       <p class="">Build Your Better Home With Professional Trusted Services.</p>
     </div>
     <br>
@@ -21,8 +21,8 @@ About Us | Prime trast multiverse
         </div>
 
         <div class="col-sm-7">          
-          <h5 class="fw-bold mt-4">Oyinlade Adu CEO of Prime trast multiverse</h5>
-          <p class="fw-bold">Engineering Excellence, Constructing Tomorrow: Prime trast multiverse Builders</p>
+          <h5 class="fw-bold mt-4">Oyinlade Adu CEO of Prime trast multiventures </h5>
+          <p class="fw-bold">Engineering Excellence, Constructing Tomorrow: Prime trast multiventures  Builders</p>
           <p>Oyinlade Adu was born 3rd of August 1979 to the Adu’s family of Obbo Aiyegunle in Ekiti Local government Area of Kwara State. </p>
           <p>He Graduated  from Federal University of Technology and  earned a B.Tech in Physics Computer Science. </p>
           <p>He worked briefly as pioneer deployer of the Contributory Pension scheme with two different PFAs.</p>
@@ -38,8 +38,8 @@ About Us | Prime trast multiverse
     <div class="row">
         <div class="col-sm-6 mb-5">
           <span class="span">How it started</span>
-          <h5 class="fw-bold mt-4">Prime trast multiverse</h5>
-          <p class="fw-bold">Engineering Excellence, Constructing Tomorrow: Prime trast multiverse Builders</p>
+          <h5 class="fw-bold mt-4">Prime trast multiventures </h5>
+          <p class="fw-bold">Engineering Excellence, Constructing Tomorrow: Prime trast multiventures  Builders</p>
           <hr>
           <p>Our construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings to infrastructure such as roads, bridges, and utilities.</p>
           <hr>

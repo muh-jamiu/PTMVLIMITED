@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section('title')
-Contact Us | Prime trast multiverse 
+Contact Us | Prime trast multiventures  
 @endsection
 
 @section("content")

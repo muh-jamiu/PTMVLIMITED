@@ -34,9 +34,9 @@
               <p><a class="{{$team ? "active" : ""}}" href="/team"><i class="fa-solid fa-people-group"></i> Team</a></p>
               
               <div class="cont mt-5 pt-3">                            
-                <p><a href="tel:+2348091810342"><i class="fa-solid text-white mx-2 fa-phone"></i> +2348091810342</a></p>
-                <p><a href=""><i class="fa-solid text-white mx-2 fa-envelope"></i> company@ptmvlimited.com</a></p>
-                <p><a href=""><i class="fa-solid text-white fa-location-dot mx-2"></i> 19 Chelsea Chibuzor street Katampe Abuja</a></p>
+                <p><a href="whatsapp://send?phone=+2348091810342"><i class="fa-solid text-white mx-2 fa-phone"></i> +2348091810342</a></p>
+                <p><a href="mailto:company@ptmvlimited.com?subject=Support%20Inquiry&body=Hello%20Support%2C%0A%0AI%20have%20a%20question%20regarding%20your%20product.%0A%0AThank%20you."><i class="fa-solid text-white mx-2 fa-envelope"></i> company@ptmvlimited.com</a></p>
+                <p><a target="_blank" href="https://www.google.com/maps/place/19+Chelsea+Chibuzor+St,+Kado,+Mabushipe+900108,+Federal+Capital+Territory/@9.0974894,7.4703366,17z/data=!3m1!4b1!4m6!3m5!1s0x104e0a8e6490cf13:0x614ff7cfd562fd01!8m2!3d9.0974841!4d7.4729115!16s%2Fg%2F11vyp9mjcx?entry=ttu"><i class="fa-solid text-white fa-location-dot mx-2"></i> 19 Chelsea Chibuzor street Katampe Abuja</a></p>
 
                 <div class="d-flex mt-5">
                     <li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
@@ -57,9 +57,9 @@
                 <li><a href=""><i class="fa-brands fa-whatsapp"></i></a></li>
             </div>
             <div class="links d-flex">
-                <li><a href="tel:+2348091810342"><i class="fa-solid mx-2 fa-phone"></i> +2348091810342</a></li>
-                <li><a href=""><i class="fa-solid mx-2 fa-envelope"></i> company@ptmvlimited.com</a></li>
-                <li><a href=""><i class="fa-solid fa-location-dot mx-2"></i> 19 Chelsea Chibuzor street Katampe Abuja</a></li>
+                <li><a href="whatsapp://send?phone=+2348091810342"><i class="fa-solid mx-2 fa-phone"></i> +2348091810342</a></li>
+                <li><a href="mailto:company@ptmvlimited.com?subject=Support%20Inquiry&body=Hello%20Support%2C%0A%0AI%20have%20a%20question%20regarding%20your%20product.%0A%0AThank%20you."><i class="fa-solid mx-2 fa-envelope"></i> company@ptmvlimited.com</a></li>
+                <li><a href="https://www.google.com/maps/place/19+Chelsea+Chibuzor+St,+Kado,+Mabushipe+900108,+Federal+Capital+Territory/@9.0974894,7.4703366,17z/data=!3m1!4b1!4m6!3m5!1s0x104e0a8e6490cf13:0x614ff7cfd562fd01!8m2!3d9.0974841!4d7.4729115!16s%2Fg%2F11vyp9mjcx?entry=ttu" target="_blank"><i class="fa-solid fa-location-dot mx-2"></i> 19 Chelsea Chibuzor street Katampe Abuja</a></li>
             </div>
         </div>
 

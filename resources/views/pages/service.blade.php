@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section('title')
-Services | Prime trast multiverse 
+Services | Prime trast multiventures  
 @endsection
 
 @section("content")
@@ -10,7 +10,7 @@ Services | Prime trast multiverse
 
   <div class="main">
     <h3 class="fw-bold text-center mt-3">Our Services</h3>
-    <p class="text-center mb-5 wago" style="width: 60%; margin: auto auto"><span class="span fw-bold">Prime trast multiverse </span> company entity specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
+    <p class="text-center mb-5 wago" style="width: 60%; margin: auto auto"><span class="span fw-bold">Prime trast multiventures  </span> company entity specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings.</p>
     
     <div class="row mt-4">
       <div class="col-sm-4">
@@ -18,7 +18,7 @@ Services | Prime trast multiverse
         <i class="fa-solid fa-people-group"></i>
         <h5 class="fw-bold text-truncate">Building Construction</h5>
         <div class="img"><img src="/img/img22.jpeg" alt=""></div>
-        <p>Prime trast multiverse encompasses the entire process of creating structures, from initial planning and design to the actual construction and completion.</p>
+        <p>Prime trast multiventures  encompasses the entire process of creating structures, from initial planning and design to the actual construction and completion.</p>
         </div>
       </div>
 
@@ -27,7 +27,7 @@ Services | Prime trast multiverse
         <i class="fa-solid fa-people-group"></i>
         <h5 class="fw-bold text-truncate">Repair & Expand Building</h5>
         <div class="img"><img src="/img/img7.jpeg" alt=""></div>
-        <p>Prime trast multiverse building construction involves creating structures from the ground up, starting with a solid foundation to support the weight. </p>
+        <p>Prime trast multiventures  building construction involves creating structures from the ground up, starting with a solid foundation to support the weight. </p>
         </div>
       </div>
 
@@ -54,7 +54,7 @@ Services | Prime trast multiverse
         <i class="fa-solid fa-people-group"></i>
         <h5 class="fw-bold text-truncate">Electrical System</h5>
         <div class="img"><img src="/img/img9.jpeg" alt=""></div>
-        <p>Prime trast multiverse system is responsible for distributing electricity safely and efficiently throughout the structure.</p>
+        <p>Prime trast multiventures  system is responsible for distributing electricity safely and efficiently throughout the structure.</p>
         </div>
       </div>
 
@@ -63,7 +63,7 @@ Services | Prime trast multiverse
         <i class="fa-solid fa-people-group"></i>
         <h5 class="fw-bold text-truncate">Product Research</h5>
         <div class="img"><img src="/img/img10.jpeg" alt=""></div>
-        <p>Prime trast multiverse goal is to gather relevant data and insights that can help businesses develop and launch successful</p>
+        <p>Prime trast multiventures  goal is to gather relevant data and insights that can help businesses develop and launch successful</p>
         </div>
       </div>
 
@@ -73,7 +73,7 @@ Services | Prime trast multiverse
         <h5 class="fw-bold text-truncate">Flooring & Roofing Building</h5>
         <div class="img"><img src="/img/img22.jpeg" alt=""></div>
         <p>
-          Prime trast multiverse provide flooring and roofing which are critical components of building construction, providing essential protection against the elements.</p>
+          Prime trast multiventures  provide flooring and roofing which are critical components of building construction, providing essential protection against the elements.</p>
         </div>
       </div>
 

@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section('title')
-Prime trast multiverse | Welcome 
+Prime trast multiventures  | Welcome 
 @endsection
 
 @section("content")
@@ -57,9 +57,9 @@ Prime trast multiverse | Welcome
                         <li><a href=""><i class="fa-brands fa-whatsapp"></i></a></li>
                     </div>
                     <div class="links d-flex">
-                        <li><a href="tel:+2348091810342"><i class="fa-solid mx-2 fa-phone"></i> +2348091810342</a></li>
-                        <li><a href=""><i class="fa-solid mx-2 fa-envelope"></i> company@ptmvlimited.com</a></li>
-                        <li><a href=""><i class="fa-solid fa-location-dot mx-2"></i> 19 Chelsea Chibuzor street Katampe Abuja</a></li>
+                        <li><a href="whatsapp://send?phone=+2348091810342"><i class="fa-solid mx-2 fa-phone"></i> +2348091810342</a></li>
+                        <li><a href="mailto:company@ptmvlimited.com?subject=Support%20Inquiry&body=Hello%20Support%2C%0A%0AI%20have%20a%20question%20regarding%20your%20product.%0A%0AThank%20you."><i class="fa-solid mx-2 fa-envelope"></i> company@ptmvlimited.com</a></li>
+                        <li><a target="_blank" href="https://www.google.com/maps/place/19+Chelsea+Chibuzor+St,+Kado,+Mabushipe+900108,+Federal+Capital+Territory/@9.0974894,7.4703366,17z/data=!3m1!4b1!4m6!3m5!1s0x104e0a8e6490cf13:0x614ff7cfd562fd01!8m2!3d9.0974841!4d7.4729115!16s%2Fg%2F11vyp9mjcx?entry=ttu"><i class="fa-solid fa-location-dot mx-2"></i> 19 Chelsea Chibuzor street Katampe Abuja</a></li>
                     </div>
                 </div>
 
@@ -80,7 +80,7 @@ Prime trast multiverse | Welcome
 
                 <div class="third text-center">
                     <h1 class="fw-bold">Build Your Dream <span class="span">Buildings</span> For Future</h1>
-                    <p><span class="span fw-bold text-uppercase">Prime trast multiverse</span> experience ensures that your projects will be done right and with the upmost <span class="span">professionalism</span>.</p>
+                    <p><span class="span fw-bold text-uppercase">Prime trast multiventures </span> experience ensures that your projects will be done right and with the upmost <span class="span">professionalism</span>.</p>
                     <a href="/services" class="btn">Our Services</a>
                 </div>
             </div>
@@ -132,7 +132,7 @@ Prime trast multiverse | Welcome
                     </div>
                 </div>
                 <div class="col-sm-5">
-                    <h2 class="fw-bold mb-2">Engineering <span class="span">Excellence</span>, Constructing Tomorrow: <span class="span">Prime trast multiverse</span> Builders</h2>
+                    <h2 class="fw-bold mb-2">Engineering <span class="span">Excellence</span>, Constructing Tomorrow: <span class="span">Prime trast multiventures </span> Builders</h2>
                     <p class="">Our construction company is a business entity that specializes in the planning, development, and execution of construction projects. These projects can range from residential, commercial buildings to infrastructure such as roads, bridges, and utilities.</p>
                     <ol>
                         <li class="fw-bold">

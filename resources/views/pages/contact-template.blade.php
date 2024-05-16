@@ -18,9 +18,9 @@
     <hr>
 
     <a href="https://ptmvlimited.com/" class="logo d-flex" style="text-align: center; margin-bottom:.5em">
-        <h3 class="fw-bold mx-2 text-white">VISIT PRIME TRAST MULTIVERSE </h3>
+        <h3 class="fw-bold mx-2 text-white">VISIT PRIME TRAST multiventures  </h3>
     </a>
-    <h4 style="text-align: center; margin-top:0">Engineering Excellence, Constructing Tomorrow: Prime trast multiverse Builders</h4>
+    <h4 style="text-align: center; margin-top:0">Engineering Excellence, Constructing Tomorrow: Prime trast multiventures  Builders</h4>
 
     <hr>
     <h3 style="margin-top:2em">Below is a message sent to your company by {{$name}}.</h3>
