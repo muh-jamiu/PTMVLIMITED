@@ -24,7 +24,7 @@ About Us | Prime trast multiventures
           <h5 class="fw-bold mt-4">Oyinlade Adu CEO of Prime trast multiventures </h5>
           <p class="fw-bold">Engineering Excellence, Constructing Tomorrow: Prime trast multiventures  Builders</p>
           <p>Oyinlade Adu was born 3rd of August 1979 to the Adu’s family of Obbo Aiyegunle in Ekiti Local government Area of Kwara State. </p>
-          <p>He Graduated  from Federal University of Technology and  earned a B.Tech in Physics Computer Science. </p>
+          <p>He Graduated  from Federal University of Technology Minna and  earned a B.Tech in Physics Computer Science. </p>
           <p>He worked briefly as pioneer deployer of the Contributory Pension scheme with two different PFAs.</p>
           <p>His passion for contruction and creativity drove him into the Construction and facility management industry. </p>
           <p>Oyinlade is also the CEO of Prime trast Management and investment LTD and a board member in Skylar Inc. </p>

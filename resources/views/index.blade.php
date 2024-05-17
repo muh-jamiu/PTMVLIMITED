@@ -92,7 +92,7 @@ Prime trast multiventures  | Welcome
         <div class="main mt-4">
             <div class="section1 text-center">
                 <h2 class="text-uppercase fw-bold">We can help with <span class="span">project</span>, big or small</h2>
-                <p class="">Our company are responsible for overseeing & and managing all aspects of a construction project. This includes planning, scheduling, budgeting, and coordination of resources.</p>
+                <p class="">Our company is responsible for overseeing & and managing all aspects of a construction project. This includes planning, scheduling, budgeting, and coordination of resources.</p>
             </div>
 
             <div class="row mt-5 section2">
@@ -156,7 +156,7 @@ Prime trast multiventures  | Welcome
           <div class="row">
             <div class="col-sm-5 mb-4">
                 <h2 class="fw-bold mb-3">Build Your Better Home With <span class="span">Professional</span> Trusted Services</h2>
-                <p class="divider">A construction company is a business entity that specializes in the planning, development, and execution of construction projects.</p>
+                <p class="divider">Our construction company is a business entity that specializes in the planning, development, and execution of construction projects.</p>
                 <h6 class="fw-bold"><i class="fa-solid fa-check"></i> Porperty Maintenance</h6>
                 <h6 class="fw-bold"><i class="fa-solid fa-check"></i> Integrity Contruction</h6>
                 <h6 class="fw-bold"><i class="fa-solid fa-check"></i> Always support from our expert member</h6>

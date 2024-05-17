@@ -47,11 +47,13 @@ Team Members | Prime trast multiventures
                 <div class="text">
                     <h5 class="text-white fw-bold ">Ahmed Buhari</h5>
                     <h6 class="text-white fw-bold mb-3">Chairman</h6>
+                    <p class="fw-bold text-white">Educations</p>
+                    <p>B.Tech FUT Minna</p>
+                    <p>Masters Degree London UK</p>
+
                     <p class="fw-bold text-white">Qualifications</p>
                     <p>B.Sc. in Geology</p>
-                    <p>Master's Degree in International Trade and Marketing in London</p>
-                    <p>Training in Geographic Information Systems</p>
-                    <p>Senior Business Development Manager </p>
+
                     <p class="fw-bold mt-3">Awards</p>
                     <p>MTN Nigeria</p>
                     <p class="fw-bold text-white mt-3">More</p>
@@ -69,7 +71,7 @@ Team Members | Prime trast multiventures
                     <h5 class="text-white fw-bold">Oyinlade Adu</h5>
                     <h6 class="text-white fw-bold">Managing Director</h6>
                     <p class="fw-bold text-white mt-3">Educations</p>
-                    <p>Federal University of Technology</p>
+                    <p>Federal University of Technology Minna Niger State</p>
                     <p class="fw-bold text-white mt-3">Qualifications</p>
                     <p>B.Tech in Physics Computer Science</p>
                     <p>Construction and facility management industry</p>
