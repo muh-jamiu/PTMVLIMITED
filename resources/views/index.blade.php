@@ -105,7 +105,7 @@ Prime trast multiventures  | Welcome
                             <img src="/img/img7.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
-                            <img src="/img/img8.jpeg" alt="Image 1">
+                            <img src="/img/img20.jpeg" alt="Image 1">
                         </div>
                         <div class="gallery-item">
                             <img src="/img/img9.jpeg" alt="Image 1">
